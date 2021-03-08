@@ -1,0 +1,5 @@
+.idea/
+.pytest_cache/
+sqlite.db
+dist/
+venv/
