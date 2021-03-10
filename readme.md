@@ -1,5 +1,5 @@
 [![build](https://github.com/a-nau/logging-extended/workflows/build/badge.svg)](https://github.com/a-nau/logging-extended/actions)
-[![CI](https://github.com/a-nau/logging-extended/workflows/CI/badge.svg)](https://github.com/a-nau/logging-extended/actions)
+[![test](https://github.com/a-nau/logging-extended/workflows/test/badge.svg)](https://github.com/a-nau/logging-extended/actions)
 
 # Logging Extended
 
